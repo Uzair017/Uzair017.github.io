@@ -172,10 +172,10 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/mobile1.jpg"
     url: "#"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/mobile2.jpeg"
     url: "#"
 
   - image: "assets/images/portfolio/item-3.png"
