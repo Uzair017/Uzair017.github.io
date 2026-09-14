@@ -99,22 +99,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Junior Android Developer,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "Jan 2026 April 2026",
+      organization: "ServicesHub",
     }
   - {
-      name: UX & UI Designer,
+      name: Machine Learning Intern,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Oct 2025 - Dec 2025 ",
+      organization: "SkillsZilla",
     }
   - {
-      name: Senior UI Designer,
+      name: Data Science Intern,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Mar 2025 - May 2025",
+      organization: "Eraviya Solutions",
     }
 
 #-------------------------------
