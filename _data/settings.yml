@@ -101,7 +101,7 @@ experience:
   - {
       name: Junior Android Developer,
       icon: "icon-1.png",
-      date: "Jan 2026 April 2026",
+      date: "Jan 2026 - April 2026",
       organization: "ServicesHub",
     }
   - {
@@ -149,19 +149,19 @@ education:
 services-title: Services
 services:
   - {
-      name: UI Design,
+      name: MobilE App Development,
       icon: ti-palette,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: Data Analytics,
       icon: ti-vector,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
+      name: Graphic Designing,
       icon: ti-panel,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: ,# Add true to select section
